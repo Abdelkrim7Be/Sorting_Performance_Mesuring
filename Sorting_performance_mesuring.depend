@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1698953047 source:c:\users\lenovo\desktop\c testing\sorting_performance_mesuring\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1698953141 c:\users\lenovo\desktop\c testing\sorting_performance_mesuring\functions.h
+
+1698953229 source:c:\users\lenovo\desktop\c testing\sorting_performance_mesuring\main.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1698949447 source:c:\users\lenovo\documents\enset\s1\c programming\sorting_performance_mesuring\sorting_performance_mesuring\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1698949541 c:\users\lenovo\documents\enset\s1\c programming\sorting_performance_mesuring\sorting_performance_mesuring\functions.h
+
